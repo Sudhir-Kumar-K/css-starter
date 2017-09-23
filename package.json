@@ -1,8 +1,7 @@
 {
   "name": "css-quick-starter",
-  "version": "1.0.0",
-  "description":
-    "Ready to use css classes with  most commonly used css properties.",
+  "version": "1.1.0",
+  "description": "Ready to use css classes with  most commonly used css properties.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Sudhir-Kumar-K/css-starter.git"
   },
-  "keywords": ["\"web", "development\"", "\"css\"", "\"sass\""],
+  "keywords": [
+    "\"web",
+    "development\"",
+    "\"css\"",
+    "\"sass\""
+  ],
   "author": "Sudhir Kumar K",
   "license": "MIT",
   "bugs": {
