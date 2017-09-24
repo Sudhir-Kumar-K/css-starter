@@ -1,7 +1,7 @@
 # css-quick-starter
 (minified) Collection of most commonly used CSS classes..   
 
-## Installation: *npm install css-quick-start --production*   
+## Installation: *npm install css-quick-start*   
 ## Classes include:   
 
   **note** You can prefix any class with i to make the corresponding properties important.   
