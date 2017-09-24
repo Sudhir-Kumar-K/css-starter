@@ -7,7 +7,7 @@ var gulp = require("gulp"),
 // TASK-1 Sass compilation & minifictaion
 gulp.task("default", function() {
   gulp
-    .src("css-starter.scss")
+    .src("css-quick-starter.scss")
     .pipe(sass().on("error", sass.logError))
     .pipe(autoprefixer("last 2 version"))
     .pipe(cssnano())
