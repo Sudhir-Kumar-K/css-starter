@@ -64,7 +64,7 @@
 
   Thanks   
   Sudhir Kumar K    
-  [Profile](sudhir-kumar-k.github.io) | [Blog](codexplore.blogspot.com)   
+  [Profile](https://sudhir-kumar-k.github.io/) | [Blog](https://codexplore.blogspot.com)   
   
 <!--
 -- Future tasks: to add fractional step value to line-height. 
