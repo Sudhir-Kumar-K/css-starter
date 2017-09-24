@@ -58,7 +58,7 @@
   **order** .order-1 to .order-25 *for order: 1px to 25px*   
   **flex grow** .fg-1 to .fg-25 *for flex-grow 1 to 25*   
 
-  ###Some Examples:   
+  ### Some Examples:   
   > .pl-20 --> {padding-left: 20px;}, .ta-c --> {text-align:center;}, .ita-c --> {text-align:center!important;}, .mv-20 --> {margin-top:20px; margin-bottom:20px;}, .ai-s --> { align-items: stretch;}   
 
 
