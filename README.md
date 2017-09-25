@@ -67,7 +67,8 @@
   [Profile](https://sudhir-kumar-k.github.io/) | [Blog](https://codexplore.blogspot.com)   
   
 <!--
--- Future tasks: to add fractional step value to line-height. 
+-- Future task : to add fractional step value to line-height.
+--             : to add cursor properties (like cursor:pointer, cursor events, etc.)
 -- margin, margin left,right,top,bottom,left-right,top-bottom 0px to 100px.
 -- border radius 0px to 50px.
 -- border width,left,right,top,bottom,left-right,top-bottom 0px to 50px
