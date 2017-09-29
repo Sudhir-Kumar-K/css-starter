@@ -1,6 +1,6 @@
 {
   "name": "css-quick-starter",
-  "version": "1.4.0",
+  "version": "latest",
   "description": "Ready to use css classes with  most commonly used css properties.",
   "main": "gulpfile.js",
   "authors": [
