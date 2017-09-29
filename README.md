@@ -3,7 +3,7 @@
 
 ## Installation:   
 * Do *npm install css-quick-starter* or *bower install css-quick-starter* in your project root directory.  
-* Then include the style sheet *css-starter\dist\css-quick-starter.min.css* in your html file.
+* Then include the style sheet *css-quick-starter/dist/css-quick-starter.min.css* in your html file.   
 Thats it!!! you are ready to use all its classes. Happy coding :-)
 
 ## Classes include:   
