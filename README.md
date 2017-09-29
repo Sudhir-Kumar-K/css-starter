@@ -2,8 +2,10 @@
 (minified) Collection of most commonly used CSS classes..   
 
 ## Installation:   
-*npm install css-quick-starter*   
-*bower install css-quick-starter*   
+* Do *npm install css-quick-starter* or *bower install css-quick-starter* in your project root directory.  
+* Then include the style sheet *css-starter\dist\css-quick-starter.min.css* in your html file.
+Thats it!!! you are ready to use all its classes. Happy coding :-)
+
 ## Classes include:   
 
   **note** You can prefix any class with i to make the corresponding properties important.   
