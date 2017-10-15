@@ -86,4 +86,7 @@ Thats it!!! you are ready to use all its classes. Happy styling    **:-)**
 -- width, min-width, max-width: 0 to 1500px
 -- display block,inline-block,inline,none,flex
 -- flex prop (for container): align-items, justify-content, flex-decoration 
--- flex prop (for child): order, flex-grow, flex-shrink  -->
+-- flex prop (for child): order, flex-grow, flex-shrink 
+
+command to update the npm package >> npm version patch and npm publish
+ -->
